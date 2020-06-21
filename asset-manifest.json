@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d9adf90a.chunk.css",
+    "main.js": "/static/js/main.f3377332.chunk.js",
+    "main.js.map": "/static/js/main.f3377332.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2a46a55c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2a46a55c.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.08291a04.chunk.js": "/static/js/2.08291a04.chunk.js",
+    "static/js/2.08291a04.chunk.js.map": "/static/js/2.08291a04.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ceb51d00d5ace4c4e62696ef23a77b74.js": "/precache-manifest.ceb51d00d5ace4c4e62696ef23a77b74.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.d9adf90a.chunk.css.map": "/static/css/main.d9adf90a.chunk.css.map",
+    "static/js/2.08291a04.chunk.js.LICENSE.txt": "/static/js/2.08291a04.chunk.js.LICENSE.txt",
+    "static/media/PhoneSamsung.jpg": "/static/media/PhoneSamsung.6ac1e806.jpg",
+    "static/media/ShoeKeds.jpg": "/static/media/ShoeKeds.46f1193a.jpg",
+    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2a46a55c.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.08291a04.chunk.js",
+    "static/css/main.d9adf90a.chunk.css",
+    "static/js/main.f3377332.chunk.js"
+  ]
+}
